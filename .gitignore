@@ -1,0 +1,35 @@
+# Node.js / Backend
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.swp
+
+# Frontend build (React app)
+client/build/
+
+# Database
+db/
+
+# Optional (if you are using MongoDB locally)
+*.mongodb
